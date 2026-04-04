@@ -14,7 +14,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between h-16">
           <div className="flex items-center gap-2">
             <img src="/sja-logo-circle.png" alt="SJA Logo" width="40" height="40" className="rounded-full" />
-            <span className="text-lg font-bold">Wear</span>
+            <span className="text-lg font-bold text-accent">Wear</span>
           </div>
           <a href="https://sja-thedude.github.io/sja-ecosystem" className="text-xs font-mono text-foreground/50 hover:text-pink-400 transition-colors">sja.com</a>
         </div>
