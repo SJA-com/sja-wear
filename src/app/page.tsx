@@ -13,8 +13,8 @@ export default function Home() {
       <nav className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-xl border-b border-border">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between h-16">
           <div className="flex items-center gap-2">
-            <div className="w-8 h-8 rounded-lg bg-pink-500 flex items-center justify-center font-bold text-white text-xs">SJA</div>
-            <span className="text-lg font-bold">SJA Wear</span>
+            <img src="/sja-logo-circle.png" alt="SJA Logo" width="40" height="40" className="rounded-full" />
+            <span className="text-lg font-bold">Wear</span>
           </div>
           <a href="https://sja-thedude.github.io/sja-ecosystem" className="text-xs font-mono text-foreground/50 hover:text-pink-400 transition-colors">sja.com</a>
         </div>
